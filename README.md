@@ -1,0 +1,1 @@
+This repository serves as a structured guide to help you build Python programming skills from the ground up, covering core Python concepts, intermediate topics, and essential data science libraries and tools, with hands-on project ideas and additional resources for further learning.
